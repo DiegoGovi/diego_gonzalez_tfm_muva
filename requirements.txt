@@ -1,0 +1,15 @@
+# Python 3.12
+# torch/torchvision/torchaudio se instalaron con soporte CUDA 12.1 (RTX 4060 8GB):
+#   pip install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+# El resto se instala normal desde PyPI:
+#   pip install -r requirements.txt
+
+nibabel==5.4.2
+numpy==2.4.6
+pillow==12.2.0
+plotly==6.8.0
+scipy==1.17.1
+ultralytics==8.4.60
+torch==2.5.1
+torchvision==0.20.1
+torchaudio==2.5.1
