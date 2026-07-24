@@ -5,7 +5,6 @@ Este repositorio contiene el código utilizado en mi **TFM de Visión Artificial
 ## 📂 Estructura del Repositorio
 
 ```
-```
 /
 ├── Codigo/
 │   ├── 01_preprocesado/             # Conversión de DICOM a NIfTI, resampleo y ventana de intensidad (HU)
