@@ -1,0 +1,575 @@
+{
+  "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+  "markups": [
+    {
+      "type": "ROI",
+      "coordinateSystem": "RAS",
+      "coordinateUnits": "mm",
+      "locked": true,
+      "fixedNumberOfControlPoints": false,
+      "labelFormat": "%N-%d",
+      "lastUsedControlPointNumber": 1,
+      "roiType": "Box",
+      "center": [
+        40.07655334472656,
+        -163.96873474121094,
+        -394.99584579467773
+      ],
+      "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "size": [
+        11.972198486328125,
+        12.04364013671875,
+        11.831016540527344
+      ],
+      "insideOut": false,
+      "controlPoints": [
+        {
+          "id": "1",
+          "label": "nndet_1",
+          "description": "",
+          "associatedNodeID": "",
+          "position": [
+            40.07655334472656,
+            -163.96873474121094,
+            -394.99584579467773
+          ],
+          "orientation": [
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "selected": true,
+          "locked": false,
+          "visibility": true,
+          "positionStatus": "defined"
+        }
+      ],
+      "measurements": [
+        {
+          "name": "volume",
+          "enabled": false,
+          "units": "cm3",
+          "printFormat": "%-#4.4g%s"
+        }
+      ],
+      "display": {
+        "visibility": true,
+        "opacity": 0.8,
+        "color": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "selectedColor": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "activeColor": [
+          0.4,
+          1.0,
+          0.0
+        ],
+        "propertiesLabelVisibility": false,
+        "pointLabelsVisibility": false,
+        "textScale": 0.0,
+        "glyphType": "Sphere3D",
+        "glyphScale": 0.0,
+        "glyphSize": 1.0,
+        "useGlyphScale": true,
+        "sliceProjection": false,
+        "sliceProjectionUseFiducialColor": true,
+        "sliceProjectionOutlinedBehindSlicePlane": false,
+        "sliceProjectionColor": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "sliceProjectionOpacity": 0.6,
+        "lineThickness": 0.2200000000000004,
+        "lineColorFadingStart": 1.0,
+        "lineColorFadingEnd": 10.0,
+        "lineColorFadingSaturation": 1.0,
+        "lineColorFadingHueOffset": 0.0,
+        "handlesInteractive": false,
+        "translationHandleVisibility": false,
+        "rotationHandleVisibility": false,
+        "scaleHandleVisibility": false,
+        "interactionHandleScale": 3.0,
+        "snapMode": "toVisibleSurface"
+      }
+    },
+    {
+      "type": "ROI",
+      "coordinateSystem": "RAS",
+      "coordinateUnits": "mm",
+      "locked": true,
+      "fixedNumberOfControlPoints": false,
+      "labelFormat": "%N-%d",
+      "lastUsedControlPointNumber": 1,
+      "roiType": "Box",
+      "center": [
+        44.289215087890625,
+        -114.50651550292969,
+        -329.3992462158203
+      ],
+      "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "size": [
+        9.983154296875,
+        9.458892822265625,
+        10.188018798828125
+      ],
+      "insideOut": false,
+      "controlPoints": [
+        {
+          "id": "2",
+          "label": "nndet_2",
+          "description": "",
+          "associatedNodeID": "",
+          "position": [
+            44.289215087890625,
+            -114.50651550292969,
+            -329.3992462158203
+          ],
+          "orientation": [
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "selected": true,
+          "locked": false,
+          "visibility": true,
+          "positionStatus": "defined"
+        }
+      ],
+      "measurements": [
+        {
+          "name": "volume",
+          "enabled": false,
+          "units": "cm3",
+          "printFormat": "%-#4.4g%s"
+        }
+      ],
+      "display": {
+        "visibility": true,
+        "opacity": 0.8,
+        "color": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "selectedColor": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "activeColor": [
+          0.4,
+          1.0,
+          0.0
+        ],
+        "propertiesLabelVisibility": false,
+        "pointLabelsVisibility": false,
+        "textScale": 0.0,
+        "glyphType": "Sphere3D",
+        "glyphScale": 0.0,
+        "glyphSize": 1.0,
+        "useGlyphScale": true,
+        "sliceProjection": false,
+        "sliceProjectionUseFiducialColor": true,
+        "sliceProjectionOutlinedBehindSlicePlane": false,
+        "sliceProjectionColor": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "sliceProjectionOpacity": 0.6,
+        "lineThickness": 0.2200000000000004,
+        "lineColorFadingStart": 1.0,
+        "lineColorFadingEnd": 10.0,
+        "lineColorFadingSaturation": 1.0,
+        "lineColorFadingHueOffset": 0.0,
+        "handlesInteractive": false,
+        "translationHandleVisibility": false,
+        "rotationHandleVisibility": false,
+        "scaleHandleVisibility": false,
+        "interactionHandleScale": 3.0,
+        "snapMode": "toVisibleSurface"
+      }
+    },
+    {
+      "type": "ROI",
+      "coordinateSystem": "RAS",
+      "coordinateUnits": "mm",
+      "locked": true,
+      "fixedNumberOfControlPoints": false,
+      "labelFormat": "%N-%d",
+      "lastUsedControlPointNumber": 1,
+      "roiType": "Box",
+      "center": [
+        41.732635498046875,
+        -149.06300354003906,
+        -362.0226364135742
+      ],
+      "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "size": [
+        8.874755859375,
+        8.06109619140625,
+        9.090896606445312
+      ],
+      "insideOut": false,
+      "controlPoints": [
+        {
+          "id": "3",
+          "label": "nndet_3",
+          "description": "",
+          "associatedNodeID": "",
+          "position": [
+            41.732635498046875,
+            -149.06300354003906,
+            -362.0226364135742
+          ],
+          "orientation": [
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "selected": true,
+          "locked": false,
+          "visibility": true,
+          "positionStatus": "defined"
+        }
+      ],
+      "measurements": [
+        {
+          "name": "volume",
+          "enabled": false,
+          "units": "cm3",
+          "printFormat": "%-#4.4g%s"
+        }
+      ],
+      "display": {
+        "visibility": true,
+        "opacity": 0.8,
+        "color": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "selectedColor": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "activeColor": [
+          0.4,
+          1.0,
+          0.0
+        ],
+        "propertiesLabelVisibility": false,
+        "pointLabelsVisibility": false,
+        "textScale": 0.0,
+        "glyphType": "Sphere3D",
+        "glyphScale": 0.0,
+        "glyphSize": 1.0,
+        "useGlyphScale": true,
+        "sliceProjection": false,
+        "sliceProjectionUseFiducialColor": true,
+        "sliceProjectionOutlinedBehindSlicePlane": false,
+        "sliceProjectionColor": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "sliceProjectionOpacity": 0.6,
+        "lineThickness": 0.2200000000000004,
+        "lineColorFadingStart": 1.0,
+        "lineColorFadingEnd": 10.0,
+        "lineColorFadingSaturation": 1.0,
+        "lineColorFadingHueOffset": 0.0,
+        "handlesInteractive": false,
+        "translationHandleVisibility": false,
+        "rotationHandleVisibility": false,
+        "scaleHandleVisibility": false,
+        "interactionHandleScale": 3.0,
+        "snapMode": "toVisibleSurface"
+      }
+    },
+    {
+      "type": "ROI",
+      "coordinateSystem": "RAS",
+      "coordinateUnits": "mm",
+      "locked": true,
+      "fixedNumberOfControlPoints": false,
+      "labelFormat": "%N-%d",
+      "lastUsedControlPointNumber": 1,
+      "roiType": "Box",
+      "center": [
+        37.23503112792969,
+        -136.8687286376953,
+        -357.344482421875
+      ],
+      "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "size": [
+        12.636932373046875,
+        12.255035400390625,
+        12.4124755859375
+      ],
+      "insideOut": false,
+      "controlPoints": [
+        {
+          "id": "4",
+          "label": "nndet_4",
+          "description": "",
+          "associatedNodeID": "",
+          "position": [
+            37.23503112792969,
+            -136.8687286376953,
+            -357.344482421875
+          ],
+          "orientation": [
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "selected": true,
+          "locked": false,
+          "visibility": true,
+          "positionStatus": "defined"
+        }
+      ],
+      "measurements": [
+        {
+          "name": "volume",
+          "enabled": false,
+          "units": "cm3",
+          "printFormat": "%-#4.4g%s"
+        }
+      ],
+      "display": {
+        "visibility": true,
+        "opacity": 0.8,
+        "color": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "selectedColor": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "activeColor": [
+          0.4,
+          1.0,
+          0.0
+        ],
+        "propertiesLabelVisibility": false,
+        "pointLabelsVisibility": false,
+        "textScale": 0.0,
+        "glyphType": "Sphere3D",
+        "glyphScale": 0.0,
+        "glyphSize": 1.0,
+        "useGlyphScale": true,
+        "sliceProjection": false,
+        "sliceProjectionUseFiducialColor": true,
+        "sliceProjectionOutlinedBehindSlicePlane": false,
+        "sliceProjectionColor": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "sliceProjectionOpacity": 0.6,
+        "lineThickness": 0.2200000000000004,
+        "lineColorFadingStart": 1.0,
+        "lineColorFadingEnd": 10.0,
+        "lineColorFadingSaturation": 1.0,
+        "lineColorFadingHueOffset": 0.0,
+        "handlesInteractive": false,
+        "translationHandleVisibility": false,
+        "rotationHandleVisibility": false,
+        "scaleHandleVisibility": false,
+        "interactionHandleScale": 3.0,
+        "snapMode": "toVisibleSurface"
+      }
+    },
+    {
+      "type": "ROI",
+      "coordinateSystem": "RAS",
+      "coordinateUnits": "mm",
+      "locked": true,
+      "fixedNumberOfControlPoints": false,
+      "labelFormat": "%N-%d",
+      "lastUsedControlPointNumber": 1,
+      "roiType": "Box",
+      "center": [
+        58.18304443359375,
+        -164.99591064453125,
+        -371.7039489746094
+      ],
+      "orientation": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "size": [
+        5.34918212890625,
+        5.486083984375,
+        6.16253662109375
+      ],
+      "insideOut": false,
+      "controlPoints": [
+        {
+          "id": "5",
+          "label": "nndet_5",
+          "description": "",
+          "associatedNodeID": "",
+          "position": [
+            58.18304443359375,
+            -164.99591064453125,
+            -371.7039489746094
+          ],
+          "orientation": [
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            -1.0,
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "selected": true,
+          "locked": false,
+          "visibility": true,
+          "positionStatus": "defined"
+        }
+      ],
+      "measurements": [
+        {
+          "name": "volume",
+          "enabled": false,
+          "units": "cm3",
+          "printFormat": "%-#4.4g%s"
+        }
+      ],
+      "display": {
+        "visibility": true,
+        "opacity": 0.8,
+        "color": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "selectedColor": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "activeColor": [
+          0.4,
+          1.0,
+          0.0
+        ],
+        "propertiesLabelVisibility": false,
+        "pointLabelsVisibility": false,
+        "textScale": 0.0,
+        "glyphType": "Sphere3D",
+        "glyphScale": 0.0,
+        "glyphSize": 1.0,
+        "useGlyphScale": true,
+        "sliceProjection": false,
+        "sliceProjectionUseFiducialColor": true,
+        "sliceProjectionOutlinedBehindSlicePlane": false,
+        "sliceProjectionColor": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "sliceProjectionOpacity": 0.6,
+        "lineThickness": 0.2200000000000004,
+        "lineColorFadingStart": 1.0,
+        "lineColorFadingEnd": 10.0,
+        "lineColorFadingSaturation": 1.0,
+        "lineColorFadingHueOffset": 0.0,
+        "handlesInteractive": false,
+        "translationHandleVisibility": false,
+        "rotationHandleVisibility": false,
+        "scaleHandleVisibility": false,
+        "interactionHandleScale": 3.0,
+        "snapMode": "toVisibleSurface"
+      }
+    }
+  ]
+}
